@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devinlouder
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning Kotlin and React
+- 🌱 I’m currently learning Javascript, HTML & CSS.
 - 💞️ I’m looking to collaborate on e-commerce projects
 - 📫 How to reach me https://www.linkedin.com/in/devin-louder-369b87222/
 
